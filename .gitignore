@@ -1,0 +1,9 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea
+bin
+node_modules
+public
+routes
+views
+app.js
+*.iml
