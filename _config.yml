@@ -68,7 +68,7 @@ google_analytics: ''
 favicon: /favicon.ico
 
 #你的头像
-avatar: "http://7vil8f.com1.z0.glb.clouddn.com/global-avatar.png"
+avatar: "https://autonote-1255810963.cos.ap-shanghai.myqcloud.com/20181211093420-global-avatar.png"
 #是否开启分享
 share_jia: true
 
